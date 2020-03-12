@@ -1,0 +1,25 @@
+Windows Commands
+
+List a files folders and sub folders:
+dir
+
+Display Media Access Control (MAC) address for your network card:
+getmac
+
+Network Information:
+ipconfig
+
+Create a directory or subfolder:
+mkdir
+
+Displays active network connections:
+netstat
+
+Displays current running tasks:
+tasklist
+
+Display system info:
+systeminfo
+
+systeminfo > c:\check_for_servicepack1.txt
+wmic qfe list brief /format:texttablewsys > C:\\hotfix.txt
