@@ -1,4 +1,0 @@
-Step 1. Create the folder C:\VNCRightClickOptions\
-Step 2. Copy All Files into new folder C:\VNCRightClickOptions\
-Step 3. Run ADD VNCRightClickOptions.reg
-Step 4. Fill out Password_Technician.txt and Password_Technician_UserName.txt
